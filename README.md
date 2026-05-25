@@ -33,5 +33,10 @@ todo-app/
 ## Author
 Kiran Rathod
 
+
+## Screenshot
+
+![Todo App Screenshot](screenshot.png)
+
 GitHub:
 https://github.com/Kiran-Rathod-R
