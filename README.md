@@ -36,7 +36,7 @@ Kiran Rathod
 
 ## Screenshot
 
-![Todo App Screenshot](screenshot.png)
+![Todo App Screenshot](Screenshot.png)
 
 GitHub:
 https://github.com/Kiran-Rathod-R
